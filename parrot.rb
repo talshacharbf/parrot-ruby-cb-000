@@ -3,5 +3,5 @@
 
 def parrot (noise="Squawk!")
   puts "#{noise}"
-  return #{noise}
+  return noise
 end
